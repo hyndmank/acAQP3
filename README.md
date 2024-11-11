@@ -1,4 +1,4 @@
-# Lysine acetylation of aquaporin-3 promotes kidney water reabsorption but is not essential for concentrating urine during water deprivation
+# <p align="center"><b>Lysine acetylation of aquaporin-3 promotes kidney water reabsorption but is not essential for concentrating urine during water deprivation </hx></b></br>
 <p align="center"> Nha Van Huynh and Kelly A. Hyndman <br>
 University of Alabama at Birmingham <br></c>
 
