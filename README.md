@@ -10,4 +10,4 @@ Differentially expressed genes (DEGs) were determined using R v4.2.1 and DESeq2 
 
 Raw files and processed files from bulk RNA sequencing can be found on Gene Expression Omnibus (GEO Accession number GSE279083). 
 
-Publication: Hunhy et al. 2025 AJP Renal https://pubmed.ncbi.nlm.nih.gov/40062363/
+Publication: Huynh et al. 2025 AJP Renal https://pubmed.ncbi.nlm.nih.gov/40062363/
